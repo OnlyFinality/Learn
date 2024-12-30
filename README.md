@@ -1,2 +1,2 @@
-# Learn_JAVA
-学习Java
+# Learn
+学习
